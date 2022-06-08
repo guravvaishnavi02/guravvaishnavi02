@@ -1,13 +1,15 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)]
+![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Gurav</h1>
 <h3 align="center">Subtitle to be decided</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guravvaishnavi02&label=Profile%20views&color=0e75b6&style=flat" alt="guravvaishnavi02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guravvaishnavi02" alt="guravvaishnavi02" /></a> </p>
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+
 
 - 🔭 I’m currently working on [abc](xyz.com)
 
