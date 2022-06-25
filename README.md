@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [porfolio.com](porfolio.com)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/company/ieeepunesection/)](IEEE Pune Section Newsletter)
+- 📝 I regularly write articles on [https://www.linkedin.com/company/ieeepunesection/](IEEE Pune Section Newsletter)
 
 - 💬 Ask me about **Hackathons, Data Science, Machine Learning**
 
