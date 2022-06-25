@@ -1,7 +1,7 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Gurav</h1>
-<h3 align="center">Subtitle to be decided</h3>
+<h3 align="center">To Code is to Live</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guravvaishnavi02&label=Profile%20views&color=0e75b6&style=flat" alt="guravvaishnavi02" /> </p>
 
@@ -11,21 +11,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 
-- 🔭 I’m currently working on [abc](xyz.com)
-
-- 🌱 I’m currently learning **abc, bcd**
-
-- 👯 I’m looking to collaborate on [abc](xyz.com)
-
-- 🤝 I’m looking for help with [abc](xyz.com)
+- 🌱 I’m currently learning **Data Engineering, AI for Trading**
 
 - 👨‍💻 All of my projects are available at [porfolio.com](porfolio.com)
 
-- 📝 I regularly write articles on [newsletter.com](newsletter.com)
+- 📝 I regularly write articles on [https://www.linkedin.com/company/ieeepunesection/)](IEEE Pune Section Newsletter)
 
-- 💬 Ask me about **tech tech tech**
+- 💬 Ask me about **Hackathons, Data Science, Machine Learning**
 
-- 📫 How to reach me **email**
+- 📫 How to reach me **vaishnavi5gurav@gmail.com**
 
 - 📄 Know about my experiences [resumelink.com](resumelink.com)
 
