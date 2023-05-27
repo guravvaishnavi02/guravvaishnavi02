@@ -11,17 +11,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 
-- 🌱 I’m currently learning **Data Engineering, AI for Trading**
+- 🌱 I’m currently learning 
 
-- 👨‍💻 All of my projects are available at [porfolio.com](porfolio.com)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/company/ieeepunesection/](IEEE Pune Section Newsletter)
-
-- 💬 Ask me about **Hackathons, Data Science, Machine Learning**
+- 💬 Ask me about **Data Science, Machine Learning**
 
 - 📫 How to reach me **vaishnavi5gurav@gmail.com**
-
-- 📄 Know about my experiences [resumelink.com](resumelink.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
